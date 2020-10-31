@@ -25,4 +25,5 @@
 <img src="https://img.shields.io/badge/mongodb-%23000000.svg?&style=for-the-badge&logo=mongodb&logoColor=green"/>
 </div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=imakish&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=imakish&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imakish&hide=TeX&layout=compact)
